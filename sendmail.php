@@ -20,7 +20,8 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     </head>
     <body>
         <div class='container'>
-            <h2>New Contact Form Message</h2>
+            <h2>🎉 Congratulations! You’ve received a new enquiry.</h2>
+<h4> Powered by: Viral Ads Media, your trusted Marketing Agency. </h4>
             <p><strong>Name:</strong> {$name}</p>
             <p><strong>Email:</strong> {$email}</p>
             <p><strong>Subject:</strong> {$subject}</p>
