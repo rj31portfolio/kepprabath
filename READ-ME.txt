@@ -5,5 +5,18 @@
   =>  Template License : https://htmlcodex.com/license (or read the LICENSE.txt file)
 
   =>  Template Author  : HTML Codex
+MST Website
+Remove pdf dowload button
+admin button to change catelog button
+navbar color change
+make new section for contact information
+remove patner sectionmake dropdown according client 
+........................................
+kepprabath
+add catlelog button for downlaod 
+change whatapp link with auto written message 
+change contact form
+make change code for email sending process
+change social link make working
 
   =>  Author Website   : https://htmlcodex.com
